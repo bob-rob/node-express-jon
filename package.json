@@ -1,0 +1,23 @@
+{
+  "name": "node-express-jon",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bob-rob/node-express-jon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bob-rob/node-express-jon/issues"
+  },
+  "homepage": "https://github.com/bob-rob/node-express-jon#readme",
+  "dependencies": {
+    "express": "4.13.3"
+  }
+}

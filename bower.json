@@ -1,0 +1,22 @@
+{
+  "name": "node-express-jon",
+  "description": "demo",
+  "main": "app.js",
+  "authors": [
+    "bob-rob <barb.bob@telus.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/bob-rob/node-express-jon",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
